@@ -1,4 +1,5 @@
 *.class
+*.iml
 
 # Package Files #
 *.jar
@@ -9,8 +10,7 @@
 .classpath
 .project
 .settings
-.idea/workspace.xml
-.idea/libraries/
+.idea/
 
 # Build Files #
 .gradle
