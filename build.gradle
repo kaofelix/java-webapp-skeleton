@@ -58,6 +58,7 @@ dependencies {
     compile "commons-dbcp:commons-dbcp:$project.commonsDbcpVersion"
     compile "org.hibernate:hibernate-core:$project.hibernateCoreVersion"
     compile "org.hibernate:hibernate-validator:$project.hibernateValidatorVersion"
+    compile "org.springframework:spring-jdbc:$project.springVersion"
     compile "org.springframework:spring-orm:$project.springVersion"
     compile "org.springframework:spring-tx:$project.springVersion"
 
