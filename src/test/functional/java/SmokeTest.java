@@ -33,7 +33,7 @@ public class SmokeTest {
         // TODO: 1: Use this test to drive creation of the CRUD operations for a 'Thingy'
         //driver.findElement(By.linkText("edit")).click();
 
-        // TODO: 4: Learn about the page object pattern and how that could help improve maintainability of this type of test.
+        // TODO: 3: Learn about the page object pattern and how that could help improve maintainability of this type of test.
     }
 
 }
