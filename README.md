@@ -13,7 +13,7 @@
 1. Create a new directory for your project and change to it
 1. Download the skeleton and start a new git repo by executing:
 
-   `curl -L https://github.com/nurous/java-webapp-skeleton/tarball/master | tar zx --strip-components=1 && git init`
+   `curl -L https://github.com/kaofelix/java-webapp-skeleton/tarball/master | tar zx --strip-components=1 && git init`
 1. Run the build (`gradle ideaLibs precommit`) to download libraries and make sure everything works
 1. Create your first commit ('`git add . && git commit`')
 1. Open the (existing) IntelliJ project
