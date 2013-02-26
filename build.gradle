@@ -59,6 +59,7 @@ dependencies {
     compile "org.hibernate:hibernate-core:$project.hibernateCoreVersion"
     compile "org.hibernate:hibernate-validator:$project.hibernateValidatorVersion"
     compile "org.springframework:spring-orm:$project.springVersion"
+    compile "org.springframework:spring-tx:$project.springVersion"
 
     compile "org.liquibase:liquibase-core:$project.liquibaseVersion"
 
